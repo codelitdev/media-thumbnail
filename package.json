@@ -1,0 +1,14 @@
+{
+  "name": "media-thumbnail",
+  "version": "1.0.0",
+  "description": "Creates thumbnails for your images and videos.",
+  "main": "index.js",
+  "author": "Rajat Saxena",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
