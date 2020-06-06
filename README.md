@@ -14,6 +14,11 @@ _Note: This module will always overwrite the thumbnail file, if already exists._
 npm install media-thumbnail
 ```
 
+**NOTE**: You need to have the following softwares installed on your machine to use this package. For Ubuntu, the command is listed.
+```
+apt install imagemagick ffmpeg
+```
+
 ## Usage
 With default options
 ```
